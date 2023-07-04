@@ -1,4 +1,4 @@
-const love = () =>
+const love = () 
 {
     return "Komal is love"
 }
